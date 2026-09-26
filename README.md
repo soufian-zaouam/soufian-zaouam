@@ -18,7 +18,6 @@ My interest is less in getting OpenStack to work than in keeping it under contro
 | **[OpenStack, the Day After Tomorrow](https://github.com/soufian-zaouam/openstack-the-day-after-tomorrow)** | Free book (PDF, 116 pages, 20 chapters, CC BY-NC-ND 4.0) | The reasoning: why control over a platform erodes, how to assess it, how to keep it while the platform, its workloads and its people change |
 | **[Short Guide](https://github.com/soufian-zaouam/openstack-the-day-after-tomorrow-guide)** | The book's ideas in 18 illustrated pages | A first read, or a shared reference for managers, sponsors and platform leads |
 | **[OpenStack Production Guide](https://github.com/soufian-zaouam/openstack-production-guide)** | Troubleshooting by symptom, command and error message; the *One Command, One Investigation* series (20 episodes); six anonymised incident RCAs; change and rollback methodology | The practice, during an incident |
-| **Upstream** | Contributing to Kolla-Ansible operations documentation | — |
 | **Next** | Open source tooling that turns these operating principles into day-to-day practice (in preparation) | — |
 
 The book explains *why*; the Production Guide gives the checks, commands and cases for *when it is already happening*; the Short Guide is the way in.
