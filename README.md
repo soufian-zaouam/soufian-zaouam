@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soufian--zaouam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufian-zaouam)
 [![Book](https://img.shields.io/badge/Book-OpenStack%2C%20the%20Day%20After%20Tomorrow-2ea44f?style=flat-square)](https://github.com/soufian-zaouam/openstack-the-day-after-tomorrow)
-[![OzarLand](https://img.shields.io/badge/%F0%9F%8F%9D%EF%B8%8F%20Community-OzarLand-f59e0b?style=flat-square)](https://github.com/OzarLand)
+[![OzarLand](https://img.shields.io/badge/Community-OzarLand-f59e0b?style=flat-square)](https://github.com/OzarLand)
 
 </div>
 
@@ -29,7 +29,7 @@ flowchart LR
     B["📘 The book<br/><i>why control erodes,<br/>how to keep it</i>"]
     G["📗 Short Guide<br/><i>the way in</i>"]
     P["🚨 Production Guide<br/><i>checks and cases<br/>during an incident</i>"]
-    O["🏝️ OzarLand<br/><i>operators share runbooks,<br/>patterns and a quick lab</i>"]
+    O["OzarLand<br/><i>operators share runbooks,<br/>patterns and a quick lab</i>"]
     S["🤖 Operator Skills<br/><i>Claude reasons like a<br/>senior operator</i>"]
     B --> G
     B --> P
@@ -54,7 +54,7 @@ flowchart LR
 The book explains *why*; the Production Guide gives the checks, commands and cases for *when it is already
 happening*; the Short Guide is the way in.
 
-## 🏝️ OzarLand
+## OzarLand
 
 **[OzarLand](https://github.com/OzarLand)** is the open community I started in October 2026: an early-stage,
 independent space where OpenStack operators share what they learn running it. Every page names its source and says
@@ -62,7 +62,7 @@ how much it was checked.
 
 | | Repository | What it holds |
 |:-:|---|---|
-| 🏝️ | [ozarland](https://github.com/OzarLand/ozarland) | Start here: newcomer path, community rules, Discussions |
+| | [ozarland](https://github.com/OzarLand/ozarland) | Start here: newcomer path, community rules, Discussions |
 | 🔧 | [openstack-vm-runbooks](https://github.com/OzarLand/openstack-vm-runbooks) | Symptom-driven runbooks for instance problems |
 | 🏗️ | [kolla-ansible-deployment-patterns](https://github.com/OzarLand/kolla-ansible-deployment-patterns) | How platforms are deployed with Kolla-Ansible, and what each choice implies |
 | 🧪 | [openstack-quick-lab](https://github.com/OzarLand/openstack-quick-lab) | A disposable all-in-one OpenStack on one VM, with exercises |
@@ -123,4 +123,4 @@ Cloud Foundry / BOSH on OpenStack, Kubernetes on IBM Cloud, Elasticsearch cluste
 
 - 💼 Professional enquiries: [LinkedIn](https://www.linkedin.com/in/soufian-zaouam)
 - 📝 Questions, corrections and suggestions about the book or the guides: open an issue in the corresponding repository
-- 🏝️ OpenStack questions and field reports: [OzarLand Discussions](https://github.com/OzarLand/ozarland/discussions)
+- OpenStack questions and field reports: [OzarLand Discussions](https://github.com/OzarLand/ozarland/discussions)
